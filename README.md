@@ -62,7 +62,7 @@ O projeto representa um semáforo controlado por botão. Durante o sinal vermelh
 
 Projeto disponível no Wokwi:
 
-COLE AQUI O LINK DO PROJETO WOKWI
+[(https://wokwi.com/projects/476344372662053889)]
 
 ## Autor
 
